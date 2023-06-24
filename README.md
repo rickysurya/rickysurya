@@ -7,7 +7,7 @@
 
 <p align="center">
     <i>
-        I’m currently learning Python and Go <br>
+        Currently learning Python and Go <br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/ricky-surya-adiputra">
