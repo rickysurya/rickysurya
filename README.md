@@ -21,7 +21,7 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/rickysurya)
-[![Go](https://img.shields.io/badge/python-black?style=for-the-badge&logo=go)](https://github.com/rickysurya)
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/rickysurya)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/rickysurya)
 
 <details>
