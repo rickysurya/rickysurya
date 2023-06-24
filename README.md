@@ -2,6 +2,8 @@
 <h3 align="center">An aspiring backend developer</h3>
 
 - 📫 How to reach me **rickysuryaa10@gmail.com**
+- 🌱 I’m currently learning Python and Go
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
