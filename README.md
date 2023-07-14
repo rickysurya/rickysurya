@@ -47,11 +47,12 @@
 </details>
 
 
-
+<!--
 <p align="center">
   <a href="https://github.com/rickysurya">
     <img src="https://komarev.com/ghpvc/?username=rickysurya&color=blue&style=flat)" />
   </a>
 </p>
+-->
 
 
